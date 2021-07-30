@@ -14,8 +14,13 @@ Si no se instaldo ninguno de los dos, puede seguir los siguientes pasos de insta
 ## Installation
 Al contar con nodejs instalado proceder con el siguiente comando
 ```bash
+# obtener repositorio
+$ git clone https://github.com/mgomez9812/agrupacion-de-consultas.git
+
+# Instalacion de modulos
 $ npm install
 ```
+En caso de generar error, se debe de realizar con permisos de root al momento de realizar las acciones
 
 ## Running the app
 
